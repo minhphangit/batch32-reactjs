@@ -1,0 +1,33 @@
+.btn {
+  width: 330px;
+  height: 60px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35px;
+}
+.ic {
+  margin-right: 20px;
+}
+.fb-ic {
+  margin-left: 12px;
+}
+.icon--white {
+  color: #fff;
+}
+.icon--black {
+  color: #000;
+}
+.bg-black {
+  background-color: #000;
+  border: 0;
+  font-weight: 600;
+  color: #fff;
+}
+.bg-white {
+  background-color: #fff;
+  border: solid 2px #000;
+  font-weight: 600;
+  color: #000;
+}
